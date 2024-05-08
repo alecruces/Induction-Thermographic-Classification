@@ -7,7 +7,7 @@ The projec aim for classifying termographic images of induction motors into diff
 
 <p align="center">
 <img src="https://github.com/alecruces/Induction-Termographic-Classification/assets/67338986/6d4c9689-da21-4cbe-b3e4-4534b894ce69" alt="image_github" style="width:300px;height:200;"/>
-</p>!
+</p>
 
 ##  Keywords
 Image Classification, GoogleNet, Failure Detection, CNN, Computer Vision
