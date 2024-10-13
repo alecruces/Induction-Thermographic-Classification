@@ -17,6 +17,7 @@ Image Classification, GoogleNet, ShuffleNet, Failure Detection, CNN, Computer Vi
 
 ## Methods  
 * GoogleNet
+* ShuffleNet
 
 ## Software 
 * Python (Pytorch)
