@@ -72,21 +72,24 @@ These visuals are provided to illustrate data distribution, model performance, a
 1. **Class Distribution of Faults (Bar Chart)**  
    Shows the number of images per fault type, confirming dataset balance.
 
+
    <p align="center">
-<img src="https://github.com/alecruces/Induction-Termographic-Classification/assets/67338986/6d4c9689-da21-4cbe-b3e4-4534b894ce69" alt="image_github" style="width:300px;height:200;"/>
+<img width="413" alt="class_distribution" src="https://github.com/user-attachments/assets/9074c84a-3612-4903-a53e-70511f606153">
 </p>
 
-3. **Sample Thermographic Images of Motor Faults**  
+
+2. **Sample Thermographic Images of Motor Faults**  
    Examples of heat distributions under "Fan" failure and "Rotor-0" (locked rotor) conditions.
 <p align="center">
-<img src="thermographic_samples" src="https://github.com/user-attachments/assets/6dbd0829-5f2d-4373-95ab-1506475ed7a2" alt="image_github" style="width:300px;height:200;"/>
+<img width="380" alt="thermographic_samples" src="https://github.com/user-attachments/assets/98f76b4b-da01-4ecb-9b2f-c749f86afa4a">
 </p>
 
 3. **Model Accuracy Comparison (Bar Chart)**  
    Comparison of test accuracy between GoogleNet, ShuffleNet, and previous models (e.g., ResNet50).
   <p align="center">
-<img src="thermographic_samples" src="[https://github.com/user-attachments/assets/6dbd0829-5f2d-4373-95ab-1506475ed7a2](https://github.com/user-attachments/assets/9612b7b3-2e9a-47a8-9ecd-96e0129b0b72)" alt="image_github" style="width:300px;height:200;"/>
-</p>
+  <img width="373" alt="model_accuracy" src="https://github.com/user-attachments/assets/dfba6cdb-a0a8-4d4b-9ddb-c8369851539f">
+  </p>
+
 
 4. **Confusion Matrix (Heatmap)**  
    Displays classification accuracy across fault classes for GoogleNet and ShuffleNet, showing minimal misclassifications.
