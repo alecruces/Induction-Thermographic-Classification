@@ -74,8 +74,8 @@ These visuals are provided to illustrate data distribution, model performance, a
 
 
    <p align="center">
-<img width="413" alt="class_distribution" src="https://github.com/user-attachments/assets/9074c84a-3612-4903-a53e-70511f606153">
-</p>
+  <img width="413" alt="class_distribution" src="https://github.com/user-attachments/assets/9074c84a-3612-4903-a53e-70511f606153">
+  </p>
 
 
 2. **Sample Thermographic Images of Motor Faults**  
@@ -91,20 +91,26 @@ These visuals are provided to illustrate data distribution, model performance, a
   </p>
 
 
-4. **Confusion Matrix (Heatmap)**  
+4. **Confusion Matrix**  
    Displays classification accuracy across fault classes for GoogleNet and ShuffleNet, showing minimal misclassifications.
+  <p align="center">
+  <img width="510" alt="Captura de pantalla 2024-11-11 a la(s) 7 45 37 p  m" src="https://github.com/user-attachments/assets/d688cd49-2e3e-4ff4-aa0b-8cff6fb06e27">
+  </p>
 
-   ![Confusion Matrix](path/to/confusion_matrix.png)
-
-5. **Training and Validation Loss Over Epochs (Line Chart)**  
+5. **Training and Validation Loss Over Epochs**  
    Loss curves for both GoogleNet and ShuffleNet, showing training stability and convergence.
+  <p align="center">
+  <img width="912" alt="losses" src="https://github.com/user-attachments/assets/9b8fd530-b382-4ddb-ae52-1467e03b7c26">
+  </p>
+  
 
-   ![Loss Curves](path/to/loss_curves.png)
-
-6. **Efficiency Comparison of Models (Bar Chart)**  
+6. **Efficiency Comparison of Models**  
    Compares training and inference times per epoch for GoogleNet and ShuffleNet, highlighting ShuffleNet's speed advantage.
+<p align="center">
+  <img width="729" alt="test_time" src="https://github.com/user-attachments/assets/146c83d5-c20a-404a-a137-4e8a4a4408de">
+  </p>
 
-   ![Efficiency Comparison](path/to/efficiency_comparison.png)
+
 
 ### 🛠️ Technologies Used
 
