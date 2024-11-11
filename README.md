@@ -147,13 +147,3 @@ To run the project, open `Vision_Project.ipynb` in Jupyter Notebook and execute 
 
 Contributions are welcome! Please see the contributing guidelines for more details.
 
-### 11. License
-
-This project is licensed under the MIT License.
-
-### 12. Contact
-
-For questions, reach out via:
-- **Alejandra Cruces**
-- GitHub: [Your GitHub Profile](https://github.com/username)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/username)
