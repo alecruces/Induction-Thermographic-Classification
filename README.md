@@ -28,17 +28,17 @@ Image Classification, GoogleNet, ShuffleNet, Failure Detection, CNN, Computer Vi
 
 ---
 
-### 1. About the Project
+### About the Project
 
 This project applies deep learning to classify thermographic images of induction motors, detecting varying levels of motor failures. Using GoogleNet and ShuffleNet architectures with transfer learning, the project achieves high classification accuracy, demonstrating that CNNs can be leveraged for industrial fault diagnosis in resource-limited settings.
 
-### 2. Key Features
+### Key Features
 
 - **High Accuracy**: Achieved 97% accuracy on the test set for both models.
 - **Efficiency with ShuffleNet**: ShuffleNet provides faster training and inference times, ideal for environments with limited computational resources.
 - **Transfer Learning**: Enhanced performance by applying pre-trained models, avoiding the need for large datasets or lengthy training from scratch.
 
-### 3. Key Results
+### Key Results
 
 - **Model Accuracy**: Both GoogleNet and ShuffleNet achieved 97% accuracy.
 - **Efficiency Comparison**:
@@ -46,7 +46,7 @@ This project applies deep learning to classify thermographic images of induction
   - **GoogleNet**: High accuracy but requires more computational power.
 - **Confusion Matrix**: Both models accurately classified most fault types, with minimal misclassifications.
 
-### 4. Data Overview
+### Data Overview
 
 The dataset includes thermographic images of induction motors under various fault conditions. Key data points:
 
@@ -54,7 +54,7 @@ The dataset includes thermographic images of induction motors under various faul
 - **Image Count**: 369 images, 320x240 resolution, categorized into 11 fault conditions.
 - **Classes**: Includes conditions like "No-load" (healthy state), "Fan" failure, "Rotor-0" (locked rotor), and various short-circuit states across motor phases.
 
-### 5. Methodology
+### Methodology
 
 This project utilizes two deep learning models optimized for different conditions:
 
@@ -65,7 +65,7 @@ This project utilizes two deep learning models optimized for different condition
 **Hyperparameters**: 
 - Both models used the Adam optimizer with batch sizes of 8 (GoogleNet) and 16 (ShuffleNet). No dropout was required, as overfitting was not observed.
 
-### 6. Screenshots and Graphs
+### Screenshots and Graphs
 
 These visuals are provided to illustrate data distribution, model performance, and efficiency:
 
@@ -112,15 +112,15 @@ These visuals are provided to illustrate data distribution, model performance, a
 
 
 
-### 🛠️ Technologies Used
+### Technologies Used
 
-> Emphasizing the primary tools and libraries utilized.
+> 🛠️ Emphasizing the primary tools and libraries utilized.
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white): Main programming language.
 - **🔥 PyTorch**: Used for implementing and training the deep learning models.
 - **📊 Transfer Learning**: Leveraged pre-trained GoogleNet and ShuffleNet architectures for efficient training.
 
-### 8. Setup & Installation
+### Setup & Installation
 
 Clone the repository and install the required dependencies to run the project:
 
@@ -135,7 +135,7 @@ cd Induction-Thermographic-Classification
 pip install -r requirements.txt
 ```
 
-### 9. Usage
+### Usage
 
 The repository includes the following file:
 
@@ -143,7 +143,7 @@ The repository includes the following file:
 
 To run the project, open `Vision_Project.ipynb` in Jupyter Notebook and execute the cells sequentially.
 
-### 10. Contributing
+### Contributing
 
 Contributions are welcome! Please see the contributing guidelines for more details.
 
