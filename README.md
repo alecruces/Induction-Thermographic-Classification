@@ -133,3 +133,27 @@ cd Induction-Thermographic-Classification
 
 # Install dependencies
 pip install -r requirements.txt
+```
+
+### 9. Usage
+
+The repository includes the following file:
+
+- **`Vision_Project.ipynb`**: Jupyter notebook containing the full workflow, from data loading and preprocessing to model training and evaluation.
+
+To run the project, open `Vision_Project.ipynb` in Jupyter Notebook and execute the cells sequentially.
+
+### 10. Contributing
+
+Contributions are welcome! Please see the contributing guidelines for more details.
+
+### 11. License
+
+This project is licensed under the MIT License.
+
+### 12. Contact
+
+For questions, reach out via:
+- **Alejandra Cruces**
+- GitHub: [Your GitHub Profile](https://github.com/username)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/username)
