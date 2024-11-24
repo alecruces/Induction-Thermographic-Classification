@@ -23,8 +23,6 @@ Image Classification, GoogleNet, ShuffleNet, Failure Detection, CNN, Computer Vi
 8. [Setup & Installation](#setup--installation)
 9. [Usage](#usage)
 10. [Contributing](#contributing)
-11. [License](#license)
-12. [Contact](#contact)
 
 ---
 
