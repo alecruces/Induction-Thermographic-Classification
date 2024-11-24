@@ -1,4 +1,4 @@
-# Induction-Thermographic-Classification
+# Deep Learning Fault Diagnosis for Electric Motors
 
 > Using deep learning models to classify thermographic images of induction motors, enabling efficient detection of failure levels.
 
